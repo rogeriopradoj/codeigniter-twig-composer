@@ -1,0 +1,16 @@
+{
+    "name": "rogeriopradoj/codeigniter-twig",
+    "description": "A way to install Twig in your CodeIgniter project, heavilly based on work done in http://willmendesnetoprojects.wordpress.com/2013/01/18/codeigniter-twig-composer-uma-boa-ideia/",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter", "twig", "template"
+    ],
+    "authors": [{
+        "name": "Rogerio Prado de Jesus",
+        "email": "rogeriopradoj@gmail.com"
+    }],
+    "type": "codeigniter-third-party",
+    "require": {
+        "php": ">5.2.6"
+    }
+}
